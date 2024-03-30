@@ -13,23 +13,12 @@ este um comentário em BLOCO em CSS
     - Pseudo-elemento
 */
 
-/* Tag */
+header {
+    background-color: blue;
+}
 h1 {
-    color: #318021;
+    font-family: serif;
 }
-/*Class */
-.link {
-    color: chartreuse;
-}
-ul .link {
-    color: blueviolet;
-    border: 2px #318021 solid;
-    display: inline;
-}
-/*  ID              */
-#container {
-    width: 80%;
-    height: 100%;
-    border: 2px solid #0000;
-    margin: 0 auto;
+h2 {
+    font-family: serif;
 }
