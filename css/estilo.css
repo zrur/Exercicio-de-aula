@@ -32,3 +32,11 @@ nav {
 section {
     line-height: 1.5;
 }
+form {
+    border-style: solid;
+    background-color: gray;
+    padding: 20px;
+}
+p {
+    color: green;
+}
