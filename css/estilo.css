@@ -1,5 +1,5 @@
-/*Este é um comentário em CSS*/
-/* 
+/*Este é um     comentário em CSS*/
+/*              
 este um comentário em BLOCO em CSS
 */
 
@@ -39,4 +39,8 @@ form {
 }
 p {
     color: green;
+}
+button {
+    background-color: blue;
+    color: white;
 }
